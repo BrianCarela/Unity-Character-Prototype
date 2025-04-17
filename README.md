@@ -1,6 +1,8 @@
 # Adventure Game Boiler Plate Part 1
 ***
 
+> [!WARNING]
+KNWON BUG - The script graph MUST be opened via selecting the game object and in it's Script Graph Component, click **`Edit Graph`**. Otherwise, the input system won't detect which input to look for actions, and all actions will forever be unavailable when using `On Input System Event` nodes
 
 Loose notes on Character Controls, such as: 
 
